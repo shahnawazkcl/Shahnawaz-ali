@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate with mathematicians and physicist interested in solving biological questions.
 - 📫 How to reach me: email: saalis.uk@gmail.com or shahnawaz.ali@kcl.ac.uk || twitter @shahnawaz_mbd
 
+I'd like to do funcoding.
+
 <!---
 shahnawazkcl/shahnawazkcl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
